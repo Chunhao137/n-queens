@@ -1,4 +1,4 @@
-describe("Board", function() {
+`describe("Board", function() {
 
   var capitalize = function(word) {
     return word[0].toUpperCase() + word.slice(1);
